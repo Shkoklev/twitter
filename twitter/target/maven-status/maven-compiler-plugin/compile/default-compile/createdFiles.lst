@@ -1,0 +1,9 @@
+twitter\User\UserService.class
+twitter\TwitterApplication.class
+twitter\Tweet\Tweet.class
+twitter\config\SwaggerConfig.class
+twitter\User\UserRepository.class
+twitter\Tweet\TweetRepository.class
+twitter\Tweet\TweetService.class
+twitter\Controllers\TwitterController.class
+twitter\User\User.class
